@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647688891 source:d:\c++ work space\all_ciphers\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<string>
+	<map>
+
